@@ -48,8 +48,17 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+FULL ADDER
+<img width="1918" height="1078" alt="EXP04 FULL ADDER " src="https://github.com/user-attachments/assets/cbf834c8-6767-4c3c-b9f4-daf94e0ed4a8" />
+FUll SUBTRACTOR
+<img width="1918" height="1078" alt="EXP4 FULL SUBTRACTOR" src="https://github.com/user-attachments/assets/314bb1c2-0cfa-49e2-b62d-c5caac31c498" />
 
 **Output Timing Waveform**
+FULL ADDER
+<img width="1918" height="1078" alt="EXP04 FULL ADDER clock diagram" src="https://github.com/user-attachments/assets/008039ae-76b4-4524-ac6f-7300ed36bf16" />
+FULL SUBTRACTOR 
+<img width="1918" height="1078" alt="EXP4 FULL SUBTRACTOR CLOCK DIAGRAM" src="https://github.com/user-attachments/assets/57c51778-8eae-4090-9ff7-198e48617d5d" />
+
 
 **Result:**
 
